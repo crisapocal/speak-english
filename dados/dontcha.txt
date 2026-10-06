@@ -1,0 +1,100 @@
+Don'tcha like it?|Voce nao gosta disso?|doun-tcha laik it
+Don'tcha wanna go?|Voce nao quer ir?|doun-tcha ua-na gou
+Don'tcha know me?|Voce nao me conhece?|doun-tcha nou mi
+Don'tcha think so?|Voce nao acha?|doun-tcha tink sou
+Don'tcha want some?|Voce nao quer um pouco?|doun-tcha uant sam
+Don'tcha miss me?|Voce nao sente minha falta?|doun-tcha mis mi
+Don'tcha love her?|Voce nao ama ela?|doun-tcha lav her
+Don'tcha believe me?|Voce nao acredita em mim?|doun-tcha bi-liv mi
+Don'tcha have a car?|Voce nao tem um carro?|doun-tcha rav a kar
+Don'tcha remember me?|Voce nao se lembra de mim?|doun-tcha ri-mem-ber mi
+Don'tcha wanna dance?|Voce nao quer dancar?|doun-tcha ua-na dans
+Don'tcha agree with me?|Voce nao concorda comigo?|doun-tcha a-gri uid mi
+Don'tcha like pizza?|Voce nao gosta de pizza?|doun-tcha laik pit-sa
+Don'tcha see it?|Voce nao ve isso?|doun-tcha si it
+Don'tcha get it?|Voce nao entende?|doun-tcha guet it
+Don'tcha wanna stay?|Voce nao quer ficar?|doun-tcha ua-na stei
+Don'tcha care about me?|Voce nao se importa comigo?|doun-tcha ker a-baut mi
+Don'tcha know that?|Voce nao sabe disso?|doun-tcha nou det
+Don'tcha have a phone?|Voce nao tem um telefone?|doun-tcha rav a foun
+Don'tcha trust me?|Voce nao confia em mim?|doun-tcha trast mi
+Don'tcha like this place?|Voce nao gosta deste lugar?|doun-tcha laik dis pleis
+Don'tcha wanna try it?|Voce nao quer experimentar?|doun-tcha ua-na trai it
+Don'tcha feel the same?|Voce nao sente o mesmo?|doun-tcha fil da seim
+Don'tcha like my dress?|Voce nao gosta do meu vestido?|doun-tcha laik mai dres
+Don'tcha understand?|Voce nao entende?|doun-tcha an-der-stand
+Don'tcha wanna come?|Voce nao quer vir?|doun-tcha ua-na kam
+Don'tcha miss your family?|Voce nao sente falta da sua familia?|doun-tcha mis ior fa-mi-li
+Don'tcha have any money?|Voce nao tem dinheiro?|doun-tcha rav e-ni ma-ni
+Don'tcha remember that day?|Voce nao se lembra daquele dia?|doun-tcha ri-mem-ber det dei
+Don'tcha love me?|Voce nao me ama?|doun-tcha lav mi
+Don'tcha think I'm right?|Voce nao acha que estou certo?|doun-tcha tink aim rait
+Don'tcha wanna eat?|Voce nao quer comer?|doun-tcha ua-na it
+Don'tcha like music?|Voce nao gosta de musica?|doun-tcha laik miu-zik
+Don'tcha hate that?|Voce nao odeia isso?|doun-tcha reit det
+Don'tcha have a minute?|Voce nao tem um minuto?|doun-tcha rav a mi-nit
+Don'tcha wanna see it?|Voce nao quer ver isso?|doun-tcha ua-na si it
+Don'tcha realize it?|Voce nao percebe isso?|doun-tcha ri-a-laiz it
+Don'tcha like animals?|Voce nao gosta de animais?|doun-tcha laik a-ni-mals
+Don'tcha wanna be free?|Voce nao quer ser livre?|doun-tcha ua-na bi fri
+Don'tcha wish that?|Voce nao deseja isso?|doun-tcha uix det
+Don'tcha like my new hair?|Voce nao gosta do meu cabelo novo?|doun-tcha laik mai niu rer
+Don'tcha wanna go out?|Voce nao quer sair?|doun-tcha ua-na gou aut
+Don'tcha know her?|Voce nao conhece ela?|doun-tcha nou her
+Don'tcha think we should go?|Voce nao acha que deveriamos ir?|doun-tcha tink ui xuld gou
+Don'tcha feel that too?|Voce nao sente isso tambem?|doun-tcha fil det tu
+Don'tcha like chocolate?|Voce nao gosta de chocolate?|doun-tcha laik tcho-klet
+Don'tcha have a lighter?|Voce nao tem um isqueiro?|doun-tcha rav a lai-ter
+Don'tcha wanna sit here?|Voce nao quer sentar aqui?|doun-tcha ua-na sit rir
+Don'tcha remember what happened?|Voce nao lembra o que aconteceu?|doun-tcha ri-mem-ber uot ra-pend
+Don'tcha like my shoes?|Voce nao gosta dos meus sapatos?|doun-tcha laik mai xus
+Don'tcha think it's weird?|Voce nao acha estranho?|doun-tcha tink its uird
+Don'tcha wanna give it a try?|Voce nao quer tentar?|doun-tcha ua-na guiv it a trai
+Don'tcha like the weather?|Voce nao gosta do clima?|doun-tcha laik da ue-der
+Don'tcha know the answer?|Voce nao sabe a resposta?|doun-tcha nou da an-ser
+Don'tcha want me to stay?|Voce nao quer que eu fique?|doun-tcha uant mi tu stei
+Don'tcha like coffee?|Voce nao gosta de cafe?|doun-tcha laik ko-fi
+Don'tcha think she's pretty?|Voce nao acha ela bonita?|doun-tcha tink xis pri-ti
+Don'tcha have a map?|Voce nao tem um mapa?|doun-tcha rav a map
+Don'tcha wanna play?|Voce nao quer jogar?|doun-tcha ua-na plei
+Don'tcha like this song?|Voce nao gosta dessa musica?|doun-tcha laik dis song
+Don'tcha miss the old days?|Voce nao sente falta dos velhos tempos?|doun-tcha mis da ould deis
+Don'tcha wanna leave now?|Voce nao quer ir embora agora?|doun-tcha ua-na liv nau
+Don'tcha know the rules?|Voce nao conhece as regras?|doun-tcha nou da ruls
+Don'tcha want some more?|Voce nao quer mais um pouco?|doun-tcha uant sam mor
+Don'tcha like the beach?|Voce nao gosta da praia?|doun-tcha laik da bitch
+Don'tcha think it's too late?|Voce nao acha que e tarde demais?|doun-tcha tink its tu leit
+Don'tcha have a pen?|Voce nao tem uma caneta?|doun-tcha rav a pen
+Don'tcha wanna talk?|Voce nao quer conversar?|doun-tcha ua-na tok
+Don'tcha remember her name?|Voce nao lembra o nome dela?|doun-tcha ri-mem-ber her neim
+Don'tcha like your job?|Voce nao gosta do seu trabalho?|doun-tcha laik ior djob
+Don'tcha think we should stop?|Voce nao acha que deveriamos parar?|doun-tcha tink ui xuld stap
+Don'tcha wanna see the movie?|Voce nao quer ver o filme?|doun-tcha ua-na si da mu-vi
+Don'tcha know him?|Voce nao conhece ele?|doun-tcha nou rim
+Don'tcha have a dollar?|Voce nao tem um dolar?|doun-tcha rav a do-lar
+Don'tcha like vegetables?|Voce nao gosta de vegetais?|doun-tcha laik ved-je-tais
+Don'tcha think that's crazy?|Voce nao acha que isso e loucura?|doun-tcha tink dets crei-zi
+Don'tcha wanna dance with me?|Voce nao quer dancar comigo?|doun-tcha ua-na dans uid mi
+Don'tcha remember what I said?|Voce nao lembra o que eu disse?|doun-tcha ri-mem-ber uot ai sed
+Don'tcha like my cooking?|Voce nao gosta da minha comida?|doun-tcha laik mai ku-kin
+Don'tcha have a minute to talk?|Voce nao tem um minuto para conversar?|doun-tcha rav a mi-nit tu tok
+Don'tcha think we're lost?|Voce nao acha que estamos perdidos?|doun-tcha tink uir lost
+Don'tcha wanna go home?|Voce nao quer ir para casa?|doun-tcha ua-na gou roum
+Don'tcha like the view?|Voce nao gosta da vista?|doun-tcha laik da viu
+Don'tcha know that song?|Voce nao conhece essa musica?|doun-tcha nou det song
+Don'tcha want to try again?|Voce nao quer tentar de novo?|doun-tcha uant tu trai a-guen
+Don'tcha like ice cream?|Voce nao gosta de sorvete?|doun-tcha laik ais crim
+Don'tcha think he's lying?|Voce nao acha que ele esta mentindo?|doun-tcha tink ris lai-in
+Don'tcha have an umbrella?|Voce nao tem um guarda-chuva?|doun-tcha rav an am-bre-la
+Don'tcha wanna dance all night?|Voce nao quer dancar a noite toda?|doun-tcha ua-na dans ol nait
+Don'tcha remember our promise?|Voce nao lembra da nossa promessa?|doun-tcha ri-mem-ber aur pro-mis
+Don'tcha like the city?|Voce nao gosta da cidade?|doun-tcha laik da si-ti
+Don'tcha think we should help?|Voce nao acha que deveriamos ajudar?|doun-tcha tink ui xuld relp
+Don'tcha wanna be with me?|Voce nao quer ficar comigo?|doun-tcha ua-na bi uid mi
+Don'tcha know where we are?|Voce nao sabe onde estamos?|doun-tcha nou uer ui ar
+Don'tcha like summer?|Voce nao gosta do verao?|doun-tcha laik sa-mer
+Don'tcha have a question?|Voce nao tem uma pergunta?|doun-tcha rav a kues-tion
+Don'tcha think she's the one?|Voce nao acha que ela e a certa?|doun-tcha tink xis da uan
+Don'tcha wanna travel?|Voce nao quer viajar?|doun-tcha ua-na tra-vel
+Don'tcha remember our song?|Voce nao lembra da nossa musica?|doun-tcha ri-mem-ber aur song
+Don'tcha like me?|Voce nao gosta de mim?|doun-tcha laik mi

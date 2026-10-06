@@ -1,0 +1,100 @@
+I'mma go.|Eu vou ir.|ai-ma gou
+I'mma eat.|Eu vou comer.|ai-ma it
+I'mma sleep.|Eu vou dormir.|ai-ma slip
+I'mma call you.|Eu vou te ligar.|ai-ma kol iu
+I'mma try my best.|Eu vou dar o meu melhor.|ai-ma trai mai best
+I'mma buy that.|Eu vou comprar aquilo.|ai-ma bai det
+I'mma take a shower.|Eu vou tomar banho.|ai-ma teik a xa-uer
+I'mma help you.|Eu vou te ajudar.|ai-ma relp iu
+I'mma fix it.|Eu vou consertar isso.|ai-ma fiks it
+I'mma tell her.|Eu vou contar a ela.|ai-ma tel her
+I'mma be there.|Eu vou estar la.|ai-ma bi der
+I'mma make it.|Eu vou conseguir.|ai-ma meik it
+I'mma stay home.|Eu vou ficar em casa.|ai-ma stei roum
+I'mma leave now.|Eu vou sair agora.|ai-ma liv nau
+I'mma drive slow.|Eu vou dirigir devagar.|ai-ma draiv slou
+I'mma cook dinner.|Eu vou fazer o jantar.|ai-ma kuk di-ner
+I'mma watch a movie.|Eu vou assistir um filme.|ai-ma uotch a mu-vi
+I'mma read this book.|Eu vou ler este livro.|ai-ma rid dis buk
+I'mma write a letter.|Eu vou escrever uma carta.|ai-ma rait a le-ter
+I'mma sing a song.|Eu vou cantar uma musica.|ai-ma sin a song
+I'mma dance with you.|Eu vou dancar com voce.|ai-ma dans uid iu
+I'mma clean my room.|Eu vou limpar meu quarto.|ai-ma klin mai rum
+I'mma wash the dishes.|Eu vou lavar a louca.|ai-ma uox da di-xiz
+I'mma feed the dog.|Eu vou alimentar o cachorro.|ai-ma fid da dog
+I'mma walk the dog.|Eu vou passear com o cachorro.|ai-ma uok da dog
+I'mma water the plants.|Eu vou regar as plantas.|ai-ma uo-ter da plants
+I'mma take a break.|Eu vou fazer uma pausa.|ai-ma teik a breik
+I'mma call you back.|Eu vou te ligar de volta.|ai-ma kol iu bak
+I'mma send an email.|Eu vou enviar um e-mail.|ai-ma send an i-meil
+I'mma ask for help.|Eu vou pedir ajuda.|ai-ma ask for relp
+I'mma ask her out.|Eu vou convida-la para sair.|ai-ma ask her aut
+I'mma start now.|Eu vou comecar agora.|ai-ma start nau
+I'mma finish this.|Eu vou terminar isso.|ai-ma fi-nix dis
+I'mma do my best.|Eu vou dar o meu melhor.|ai-ma du mai best
+I'mma change my mind.|Eu vou mudar de ideia.|ai-ma tcheindj mai maind
+I'mma try again.|Eu vou tentar de novo.|ai-ma trai a-guen
+I'mma prove it.|Eu vou provar isso.|ai-ma pruv it
+I'mma show you.|Eu vou te mostrar.|ai-ma xou iu
+I'mma tell the truth.|Eu vou dizer a verdade.|ai-ma tel da truf
+I'mma be honest.|Eu vou ser honesto.|ai-ma bi o-nest
+I'mma be patient.|Eu vou ser paciente.|ai-ma bi pei-xent
+I'mma be careful.|Eu vou ter cuidado.|ai-ma bi ker-ful
+I'mma be happy.|Eu vou ser feliz.|ai-ma bi ra-pi
+I'mma be strong.|Eu vou ser forte.|ai-ma bi strong
+I'mma be fine.|Eu vou ficar bem.|ai-ma bi fain
+I'mma be okay.|Eu vou ficar bem.|ai-ma bi ou-kei
+I'mma be there soon.|Eu vou estar la logo.|ai-ma bi der sun
+I'mma be right back.|Eu vou voltar ja.|ai-ma bi rait bak
+I'mma go home.|Eu vou ir para casa.|ai-ma gou roum
+I'mma go out.|Eu vou sair.|ai-ma gou aut
+I'mma go shopping.|Eu vou fazer compras.|ai-ma gou xa-pin
+I'mma go to the gym.|Eu vou para a academia.|ai-ma gou tu da djim
+I'mma go to the beach.|Eu vou para a praia.|ai-ma gou tu da bitch
+I'mma go to the park.|Eu vou para o parque.|ai-ma gou tu da park
+I'mma go to bed.|Eu vou dormir.|ai-ma gou tu bed
+I'mma go to work.|Eu vou para o trabalho.|ai-ma gou tu uerk
+I'mma go to school.|Eu vou para a escola.|ai-ma gou tu skul
+I'mma go to church.|Eu vou para a igreja.|ai-ma gou tu tchertch
+I'mma go to the store.|Eu vou para a loja.|ai-ma gou tu da stor
+I'mma go to the bank.|Eu vou para o banco.|ai-ma gou tu da bank
+I'mma get some food.|Eu vou pegar comida.|ai-ma guet sam fud
+I'mma get some sleep.|Eu vou dormir um pouco.|ai-ma guet sam slip
+I'mma get a drink.|Eu vou pegar uma bebida.|ai-ma guet a drink
+I'mma get my keys.|Eu vou pegar minhas chaves.|ai-ma guet mai kis
+I'mma get my phone.|Eu vou pegar meu celular.|ai-ma guet mai foun
+I'mma get ready.|Eu vou me preparar.|ai-ma guet re-di
+I'mma get dressed.|Eu vou me vestir.|ai-ma guet drest
+I'mma get married.|Eu vou casar.|ai-ma guet ma-rid
+I'mma get out of here.|Eu vou sair daqui.|ai-ma guet aut ov rir
+I'mma get over it.|Eu vou superar isso.|ai-ma guet ou-ver it
+I'mma have some fun.|Eu vou me divertir.|ai-ma rav sam fan
+I'mma have a coffee.|Eu vou tomar um cafe.|ai-ma rav a ko-fi
+I'mma have a drink.|Eu vou tomar uma bebida.|ai-ma rav a drink
+I'mma have a party.|Eu vou dar uma festa.|ai-ma rav a par-ti
+I'mma have a baby.|Eu vou ter um bebe.|ai-ma rav a bei-bi
+I'mma have a good time.|Eu vou ter um bom tempo.|ai-ma rav a gud taim
+I'mma have a great day.|Eu vou ter um otimo dia.|ai-ma rav a greit dei
+I'mma have some ice cream.|Eu vou tomar sorvete.|ai-ma rav sam ais crim
+I'mma have some pizza.|Eu vou comer pizza.|ai-ma rav sam pit-sa
+I'mma have some water.|Eu vou beber agua.|ai-ma rav sam uo-ter
+I'mma take a look.|Eu vou dar uma olhada.|ai-ma teik a luk
+I'mma take a nap.|Eu vou tirar um cochilo.|ai-ma teik a nap
+I'mma take a picture.|Eu vou tirar uma foto.|ai-ma teik a pik-tcher
+I'mma take care of it.|Eu vou cuidar disso.|ai-ma teik ker ov it
+I'mma take my time.|Eu vou com calma.|ai-ma teik mai taim
+I'mma take your advice.|Eu vou seguir seu conselho.|ai-ma teik ior ad-vais
+I'mma take a chance.|Eu vou arriscar.|ai-ma teik a tchans
+I'mma take the bus.|Eu vou pegar o onibus.|ai-ma teik da bas
+I'mma take the train.|Eu vou pegar o trem.|ai-ma teik da trein
+I'mma take the job.|Eu vou aceitar o emprego.|ai-ma teik da djob
+I'mma give you a hug.|Eu vou te dar um abraco.|ai-ma guiv iu a rag
+I'mma give it a try.|Eu vou tentar.|ai-ma guiv it a trai
+I'mma give my best.|Eu vou dar o meu melhor.|ai-ma guiv mai best
+I'mma give you a call.|Eu vou te dar uma ligacao.|ai-ma guiv iu a kol
+I'mma give you a ride.|Eu vou te dar uma carona.|ai-ma guiv iu a raid
+I'mma give it to you.|Eu vou te dar isso.|ai-ma guiv it tu iu
+I'mma give up smoking.|Eu vou parar de fumar.|ai-ma guiv ap smou-kin
+I'mma give him a chance.|Eu vou dar uma chance a ele.|ai-ma guiv rim a tchans
+I'mma give her a gift.|Eu vou dar um presente a ela.|ai-ma guiv her a gift
+I'mma give it my all.|Eu vou dar tudo de mim.|ai-ma guiv it mai ol

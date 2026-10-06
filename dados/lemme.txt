@@ -1,0 +1,100 @@
+Lemme go.|Me deixa ir.|le-mi gou
+Lemme see.|Deixa eu ver.|le-mi si
+Lemme help you.|Deixa eu te ajudar.|le-mi relp iu
+Lemme think.|Deixa eu pensar.|le-mi tink
+Lemme try.|Deixa eu tentar.|le-mi trai
+Lemme explain.|Deixa eu explicar.|le-mi eks-plein
+Lemme stay.|Me deixa ficar.|le-mi stei
+Lemme pay.|Deixa eu pagar.|le-mi pei
+Lemme drive.|Deixa eu dirigir.|le-mi draiv
+Lemme talk.|Deixa eu falar.|le-mi tok
+Lemme sleep.|Deixa eu dormir.|le-mi slip
+Lemme guess.|Deixa eu adivinhar.|le-mi ges
+Lemme check.|Deixa eu verificar.|le-mi tchek
+Lemme finish.|Deixa eu terminar.|le-mi fi-nix
+Lemme cook.|Deixa eu cozinhar.|le-mi kuk
+Lemme buy it.|Deixa eu comprar.|le-mi bai it
+Lemme hold it.|Deixa eu segurar.|le-mi rould it
+Lemme sit here.|Me deixa sentar aqui.|le-mi sit rir
+Lemme show you.|Deixa eu te mostrar.|le-mi xou iu
+Lemme ask something.|Deixa eu perguntar algo.|le-mi ask sam-tin
+Lemme take a look.|Deixa eu dar uma olhada.|le-mi teik a luk
+Lemme call you back.|Deixa eu te ligar de volta.|le-mi kol iu bak
+Lemme get that.|Deixa eu pegar isso.|le-mi guet det
+Lemme open the door.|Deixa eu abrir a porta.|le-mi ou-pen da dor
+Lemme close the window.|Deixa eu fechar a janela.|le-mi clous da uin-dou
+Lemme turn on the TV.|Deixa eu ligar a TV.|le-mi tern on da ti-vi
+Lemme turn off the light.|Deixa eu apagar a luz.|le-mi tern of da lait
+Lemme grab my bag.|Deixa eu pegar minha bolsa.|le-mi grab mai bag
+Lemme put my shoes on.|Deixa eu calcar meus sapatos.|le-mi put mai xus on
+Lemme take off my jacket.|Deixa eu tirar minha jaqueta.|le-mi teik of mai dja-kit
+Lemme speak to him.|Deixa eu falar com ele.|le-mi spik tu rim
+Lemme handle this.|Deixa eu resolver isso.|le-mi ran-del dis
+Lemme fix it.|Deixa eu consertar isso.|le-mi fiks it
+Lemme clean the room.|Deixa eu limpar o quarto.|le-mi klin da rum
+Lemme wash the dishes.|Deixa eu lavar a louca.|le-mi uox da di-xiz
+Lemme feed the cat.|Deixa eu alimentar o gato.|le-mi fid da kat
+Lemme walk the dog.|Deixa eu passear com o cachorro.|le-mi uok da dog
+Lemme water the plants.|Deixa eu regar as plantas.|le-mi uo-ter da plants
+Lemme read this letter.|Deixa eu ler esta carta.|le-mi rid dis le-ter
+Lemme write a note.|Deixa eu escrever um bilhete.|le-mi rait a nout
+Lemme send an email.|Deixa eu enviar um e-mail.|le-mi send an i-meil
+Lemme make a call.|Deixa eu fazer uma ligacao.|le-mi meik a kol
+Lemme take a photo.|Deixa eu tirar uma foto.|le-mi teik a fou-tou
+Lemme record this.|Deixa eu gravar isso.|le-mi ri-kord dis
+Lemme play the guitar.|Deixa eu tocar violao.|le-mi plei da gui-tar
+Lemme sing a song.|Deixa eu cantar uma musica.|le-mi sin a song
+Lemme dance with you.|Me deixa dancar com voce.|le-mi dans uid iu
+Lemme join the team.|Me deixa entrar no time.|le-mi djoin da tim
+Lemme participate.|Me deixa participar.|le-mi par-ti-si-peit
+Lemme vote.|Me deixa votar.|le-mi vout
+Lemme choose.|Deixa eu escolher.|le-mi tchus
+Lemme decide.|Deixa eu decidir.|le-mi di-said
+Lemme change my mind.|Deixa eu mudar de ideia.|le-mi tcheindj mai maind
+Lemme start over.|Deixa eu recomecar.|le-mi start ou-ver
+Lemme do it my way.|Deixa eu fazer do meu jeito.|le-mi du it mai uei
+Lemme try again.|Deixa eu tentar de novo.|le-mi trai a-guen
+Lemme prove it.|Deixa eu provar isso.|le-mi pruv it
+Lemme demonstrate.|Deixa eu demonstrar.|le-mi de-mon-streit
+Lemme share this.|Deixa eu compartilhar isso.|le-mi xer dis
+Lemme tell you something.|Deixa eu te contar algo.|le-mi tel iu sam-tin
+Lemme warn you.|Deixa eu te avisar.|le-mi uorn iu
+Lemme remind you.|Deixa eu te lembrar.|le-mi ri-maind iu
+Lemme suggest something.|Deixa eu sugerir algo.|le-mi su-gue-djest sam-tin
+Lemme recommend this.|Deixa eu recomendar isso.|le-mi re-ko-men-da dis
+Lemme introduce myself.|Deixa eu me apresentar.|le-mi in-tro-dus mai-self
+Lemme apologize.|Deixa eu me desculpar.|le-mi a-po-lo-djais
+Lemme explain myself.|Deixa eu me explicar.|le-mi eks-plein mai-self
+Lemme be honest.|Deixa eu ser honesto.|le-mi bi o-nest
+Lemme be clear.|Deixa eu ser claro.|le-mi bi clir
+Lemme be direct.|Deixa eu ser direto.|le-mi bi di-rekt
+Lemme rest a bit.|Deixa eu descansar um pouco.|le-mi rest a bit
+Lemme relax.|Deixa eu relaxar.|le-mi ri-laks
+Lemme enjoy this moment.|Deixa eu aproveitar este momento.|le-mi en-djoi dis mou-ment
+Lemme have some fun.|Deixa eu me divertir.|le-mi rav sam fan
+Lemme live my life.|Deixa eu viver minha vida.|le-mi liv mai laif
+Lemme be myself.|Deixa eu ser eu mesmo.|le-mi bi mai-self
+Lemme breathe.|Deixa eu respirar.|le-mi brid
+Lemme think about it.|Deixa eu pensar sobre isso.|le-mi tink a-baut it
+Lemme consider that.|Deixa eu considerar isso.|le-mi kon-si-der det
+Lemme reflect on that.|Deixa eu refletir sobre isso.|le-mi ri-flekt on det
+Lemme hold your hand.|Deixa eu segurar sua mao.|le-mi rould ior rand
+Lemme give you a hug.|Deixa eu te dar um abraco.|le-mi guiv iu a rag
+Lemme buy you a drink.|Deixa eu te comprar uma bebida.|le-mi bai iu a drink
+Lemme make you coffee.|Deixa eu te fazer cafe.|le-mi meik iu ko-fi
+Lemme carry your bags.|Deixa eu carregar suas malas.|le-mi ke-ri ior bags
+Lemme drive you home.|Deixa eu te levar para casa.|le-mi draiv iu roum
+Lemme pick you up.|Deixa eu te buscar.|le-mi pik iu ap
+Lemme wait for you.|Deixa eu esperar por voce.|le-mi ueit for iu
+Lemme sit next to you.|Me deixa sentar ao seu lado.|le-mi sit nekst tu iu
+Lemme stay with you.|Me deixa ficar com voce.|le-mi stei uid iu
+Lemme know if you need help.|Me avise se precisar de ajuda.|le-mi nou if iu nid relp
+Lemme know what you think.|Me diga o que voce acha.|le-mi nou uot iu tink
+Lemme know when you're ready.|Me avise quando estiver pronto.|le-mi nou uen iur re-di
+Lemme know your decision.|Me diga sua decisao.|le-mi nou ior di-si-jon
+Lemme know the truth.|Me diga a verdade.|le-mi nou da truf
+Lemme know later.|Me avise depois.|le-mi nou lei-ter
+Lemme know ASAP.|Me avise o mais rapido possivel.|le-mi nou ei-es-ei-pi
+Lemme know if it's okay.|Me diga se esta tudo bem.|le-mi nou if its ou-kei
+Lemme know how it goes.|Me conte como foi.|le-mi nou rau it gous
+Lemme know everything.|Me conte tudo.|le-mi nou ev-ri-tin

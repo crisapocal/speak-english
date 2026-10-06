@@ -1,0 +1,139 @@
+{
+  "I gotta go.": {
+    "notas": [
+      100,
+      84,
+      84,
+      84,
+      61,
+      100,
+      21,
+      27,
+      62,
+      100
+    ],
+    "media": 72.3,
+    "tentativas": 10
+  },
+  "She gotta love herself.": {
+    "notas": [
+      68
+    ],
+    "media": 68.0,
+    "tentativas": 1
+  },
+  "We gotta sing louder.": {
+    "notas": [
+      59
+    ],
+    "media": 59.0,
+    "tentativas": 1
+  },
+  "He gotta carry this box.": {
+    "notas": [
+      62
+    ],
+    "media": 62.0,
+    "tentativas": 1
+  },
+  "You gotta stay calm.": {
+    "notas": [
+      70
+    ],
+    "media": 70.0,
+    "tentativas": 1
+  },
+  "I gotta brush my teeth.": {
+    "notas": [
+      13
+    ],
+    "media": 13.0,
+    "tentativas": 1
+  },
+  "They gotta visit grandma.": {
+    "notas": [
+      46
+    ],
+    "media": 46.0,
+    "tentativas": 1
+  },
+  "We gotta order pizza.": {
+    "notas": [
+      27
+    ],
+    "media": 27.0,
+    "tentativas": 1
+  },
+  "She gotta turn on the TV.": {
+    "notas": [
+      70
+    ],
+    "media": 70.0,
+    "tentativas": 1
+  },
+  "You gotta write it down.": {
+    "notas": [
+      50
+    ],
+    "media": 50.0,
+    "tentativas": 1
+  },
+  "I gotta read this book.": {
+    "notas": [
+      88,
+      91,
+      88,
+      91
+    ],
+    "media": 89.5,
+    "tentativas": 4
+  },
+  "He gotta mow the lawn.": {
+    "notas": [
+      15,
+      56,
+      56,
+      53
+    ],
+    "media": 45.0,
+    "tentativas": 4
+  },
+  "We gotta clean the garage.": {
+    "notas": [
+      31
+    ],
+    "media": 31.0,
+    "tentativas": 1
+  },
+  "You gotta try this.": {
+    "notas": [
+      89,
+      68,
+      89
+    ],
+    "media": 82.0,
+    "tentativas": 3
+  },
+  "She gotta leave now.": {
+    "notas": [
+      57,
+      37,
+      34,
+      37,
+      26,
+      68,
+      46,
+      58,
+      46,
+      6,
+      40,
+      59,
+      62,
+      38,
+      72,
+      67
+    ],
+    "media": 47.1,
+    "tentativas": 16
+  }
+}

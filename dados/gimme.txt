@@ -1,0 +1,100 @@
+Gimme a chance.|Me de uma chance.|gi-mi a tchans
+Gimme your phone.|Me de seu telefone.|gi-mi ior foun
+Gimme some water.|Me de um pouco de agua.|gi-mi sam uo-ter
+Gimme a break.|Me da um tempo.|gi-mi a breik
+Gimme that book.|Me de aquele livro.|gi-mi det buk
+Gimme your hand.|Me de sua mao.|gi-mi ior rand
+Gimme a minute.|Me de um minuto.|gi-mi a mi-nit
+Gimme the keys.|Me de as chaves.|gi-mi da kis
+Gimme some food.|Me de comida.|gi-mi sam fud
+Gimme a hug.|Me de um abraco.|gi-mi a rag
+Gimme your number.|Me de seu numero.|gi-mi ior nam-ber
+Gimme a ride home.|Me de uma carona para casa.|gi-mi a raid roum
+Gimme the money.|Me de o dinheiro.|gi-mi da ma-ni
+Gimme a kiss.|Me de um beijo.|gi-mi a kis
+Gimme that pen.|Me de aquela caneta.|gi-mi det pen
+Gimme some advice.|Me de um conselho.|gi-mi sam ad-vais
+Gimme a second.|Me da um segundo.|gi-mi a se-kend
+Gimme your ID.|Me de seu documento.|gi-mi ior ai-di
+Gimme the remote.|Me de o controle remoto.|gi-mi da ri-mout
+Gimme a drink.|Me de uma bebida.|gi-mi a drink
+Gimme five minutes.|Me de cinco minutos.|gi-mi faiv mi-nits
+Gimme your attention.|Me de sua atencao.|gi-mi ior a-ten-xion
+Gimme a call later.|Me de uma ligacao depois.|gi-mi a kol lei-ter
+Gimme some space.|Me da um espaco.|gi-mi sam speis
+Gimme that bag.|Me de aquela bolsa.|gi-mi det bag
+Gimme a pencil.|Me de um lapis.|gi-mi a pen-sil
+Gimme the truth.|Me de a verdade.|gi-mi da truf
+Gimme a cookie.|Me de um biscoito.|gi-mi a ku-ki
+Gimme your opinion.|Me de sua opiniao.|gi-mi ior o-pi-nion
+Gimme a high five.|Me da um tapa aqui.|gi-mi a rai faiv
+Gimme a glass of milk.|Me de um copo de leite.|gi-mi a glas ov milk
+Gimme your ticket.|Me de seu ingresso.|gi-mi ior ti-ket
+Gimme some help.|Me de ajuda.|gi-mi sam relp
+Gimme a break, please.|Me da um tempo, por favor.|gi-mi a breik plis
+Gimme that shirt.|Me de aquela camisa.|gi-mi det xert
+Gimme a reason.|Me de uma razao.|gi-mi a ri-zen
+Gimme your jacket.|Me de sua jaqueta.|gi-mi ior dja-kit
+Gimme a spoon.|Me de uma colher.|gi-mi a spun
+Gimme the salt.|Me de o sal.|gi-mi da solt
+Gimme a smile.|Me de um sorriso.|gi-mi a smail
+Gimme your passport.|Me de seu passaporte.|gi-mi ior pas-port
+Gimme a piece of cake.|Me de um pedaco de bolo.|gi-mi a pis ov keik
+Gimme some time.|Me de um tempo.|gi-mi sam taim
+Gimme the newspaper.|Me de o jornal.|gi-mi da nius-pei-per
+Gimme a fork.|Me de um garfo.|gi-mi a fork
+Gimme your address.|Me de seu endereco.|gi-mi ior a-dres
+Gimme a towel.|Me de uma toalha.|gi-mi a ta-uel
+Gimme that umbrella.|Me de aquele guarda-chuva.|gi-mi det am-bre-la
+Gimme a gift.|Me de um presente.|gi-mi a gift
+Gimme some peace.|Me de um pouco de paz.|gi-mi sam pis
+Gimme your credit card.|Me de seu cartao de credito.|gi-mi ior kre-dit kard
+Gimme a blanket.|Me de um cobertor.|gi-mi a blank-et
+Gimme the map.|Me de o mapa.|gi-mi da map
+Gimme a lighter.|Me de um isqueiro.|gi-mi a lai-ter
+Gimme your bag.|Me de sua bolsa.|gi-mi ior bag
+Gimme a pillow.|Me de um travesseiro.|gi-mi a pi-lou
+Gimme some sugar.|Me de um pouco de acucar.|gi-mi sam xu-gar
+Gimme the scissors.|Me de a tesoura.|gi-mi da si-zers
+Gimme a chair.|Me de uma cadeira.|gi-mi a tcher
+Gimme your signature.|Me de sua assinatura.|gi-mi ior sig-ne-tcher
+Gimme a napkin.|Me de um guardanapo.|gi-mi a nap-kin
+Gimme that hat.|Me de aquele chapeu.|gi-mi det rat
+Gimme a flashlight.|Me de uma lanterna.|gi-mi a flax-lait
+Gimme your coat.|Me de seu casaco.|gi-mi ior kout
+Gimme a plate.|Me de um prato.|gi-mi a pleit
+Gimme some ice.|Me de um pouco de gelo.|gi-mi sam ais
+Gimme the receipt.|Me de o recibo.|gi-mi da ri-sit
+Gimme a calculator.|Me de uma calculadora.|gi-mi a kal-kiu-lei-ter
+Gimme your pen.|Me de sua caneta.|gi-mi ior pen
+Gimme a ladder.|Me de uma escada.|gi-mi a la-der
+Gimme a hammer.|Me de um martelo.|gi-mi a ra-mer
+Gimme that guitar.|Me de aquele violao.|gi-mi det gui-tar
+Gimme a mirror.|Me de um espelho.|gi-mi a mi-ror
+Gimme your keys.|Me de suas chaves.|gi-mi ior kis
+Gimme a candle.|Me de uma vela.|gi-mi a kan-del
+Gimme the menu.|Me de o cardapio.|gi-mi da me-niu
+Gimme a spoon, please.|Me de uma colher, por favor.|gi-mi a spun plis
+Gimme your ID card.|Me de seu cracha.|gi-mi ior ai-di kard
+Gimme a marker.|Me de uma caneta marcadora.|gi-mi a mar-ker
+Gimme the bill.|Me de a conta.|gi-mi da bil
+Gimme a bucket.|Me de um balde.|gi-mi a bak-et
+Gimme that phone.|Me de aquele telefone.|gi-mi det foun
+Gimme a tissue.|Me de um lenco de papel.|gi-mi a ti-xu
+Gimme your glasses.|Me de seus oculos.|gi-mi ior gla-sis
+Gimme a rope.|Me de uma corda.|gi-mi a roup
+Gimme some bread.|Me de um pouco de pao.|gi-mi sam bred
+Gimme the brush.|Me de o pincel.|gi-mi da brax
+Gimme a button.|Me de um botao.|gi-mi a ba-ton
+Gimme your watch.|Me de seu relogio.|gi-mi ior uotch
+Gimme a pin.|Me de um alfinete.|gi-mi a pin
+Gimme a basket.|Me de uma cesta.|gi-mi a bas-ket
+Gimme that box.|Me de aquela caixa.|gi-mi det baks
+Gimme a ruler.|Me de uma regua.|gi-mi a ru-ler
+Gimme your ring.|Me de seu anel.|gi-mi ior rin
+Gimme a compass.|Me de uma bussola.|gi-mi a kam-pas
+Gimme some tape.|Me de um pouco de fita adesiva.|gi-mi sam teip
+Gimme the glue.|Me de a cola.|gi-mi da glu
+Gimme a needle.|Me de uma agulha.|gi-mi a ni-del
+Gimme your heart.|Me de seu coracao.|gi-mi ior rart
+Gimme a dream.|Me de um sonho.|gi-mi a drim
